@@ -1,0 +1,32 @@
+[
+    {
+        "code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week7/Q.c",
+        "id": 7,
+        "title": "Dining Philosopher problem"
+    },
+    {
+        "fcfs-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week8/Q1.c",
+        "id": 8,
+        "sjf-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week8/Q2.c",
+        "title": "FCFS-SJF"
+    },
+    {
+        "id": 9,
+        "priority-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week9/Q1.c",
+        "rr-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week9/Q2.c",
+        "title": "Priority and Round Robin scheduling"
+    },
+    {
+        "code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week10/Q10.c",
+        "id": 10,
+        "title": "Bankers Algorithm"
+    },
+    {
+        "bf-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week11/Q11b.c",
+        "ff-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week11/Q11a.c",
+        "id": 11,
+        "title": "First Fit, Best fit and Worst fit",
+        "wf-code": "https://raw.githubusercontent.com/krishmakhijani/test/main/week11/Q11c.c"
+    }
+
+]
